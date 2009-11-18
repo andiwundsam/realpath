@@ -1,0 +1,2 @@
+realpath is a very very small utility that uses the POSIX realpath
+system call to find the canonical file name for its parameter.
